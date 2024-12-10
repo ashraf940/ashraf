@@ -1,0 +1,19 @@
+
+.App-header{
+  background-color: blueviolet;
+  display: flex;
+  text-align: center;
+  padding: 1%;
+}
+h1{
+  background-color: brown;
+}
+Body{
+  background-color:gray;
+  text-align: center;
+}
+Footer{
+  text-align: right;
+  display: flex;
+  
+}
